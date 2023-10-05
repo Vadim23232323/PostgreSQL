@@ -1,4 +1,4 @@
--- Цыклы
+-- Р¦РёРєР»С‹
 
 
 CREATE  OR REPLACE FUNCTION fib(n int) RETURNS int AS $$
